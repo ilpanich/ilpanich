@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilpanich, a Senior Cloud SW Engineer and Cloud Technical Leader with a Ph. D. in IT
 - 👀 I’m interested in Cloud SW architectures, Cloud API development, Data Analysis, AI, R&R music, theatre
-- 🌱 I currently work with [Java](https://openjdk.org), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/), [deno](https://deno.com/) and actix-web
+- 🌱 I currently work with [Java](https://openjdk.org), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/), [Deno](https://deno.com/) and [Actix Web](https://actix.rs/)
 - 👨‍🏫 I'm studying the DevOps methodology and also secure coding & threat modeling; all of them I want to apply to my daily working & coding life
 - 💞️ I’m looking to collaborate on Cloud-related and data-centric or AI projects
 - 🐝 I've joined OWASP recently to gather more useful stuff to improve my cyber-security knowledge 
