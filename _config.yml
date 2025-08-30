@@ -1,8 +1,9 @@
 # Beautiful Jekyll Theme
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
 # Site settings
 title: "Emanuele Panigati"
+subtitle: "We apologize for the inconvenience"
 description: "Ph.D. in Information & Communication Technology, Cloud Technical Leader specializing in Java, Rust, IoT, Web Development, and Cybersecurity."
 avatar: "/assets/images/ChatGPT Image 29 mar 2025, 16_50_56.jpg"
 url: "https://ilpanich.github.io"
